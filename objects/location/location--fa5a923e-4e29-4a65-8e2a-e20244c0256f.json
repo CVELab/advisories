@@ -1,0 +1,16 @@
+{
+    "id": "bundle--34909364-b044-4f7e-82e6-f5cb111e1998",
+    "objects": [
+        {
+            "country": "ZM",
+            "created": "2021-03-13T20:09:21.181463Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--fa5a923e-4e29-4a65-8e2a-e20244c0256f",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Zambia",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "bundle--7f6c0c7d-1725-427b-ada8-b2edd8bdb612",
+    "objects": [
+        {
+            "country": "LK",
+            "created": "2021-03-13T20:09:21.047753Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--104c4c66-9bdd-442d-aefd-0d5f5edf8e8c",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Sri Lanka",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

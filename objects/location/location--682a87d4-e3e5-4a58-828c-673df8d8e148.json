@@ -1,0 +1,16 @@
+{
+    "id": "bundle--5bb4b8d6-e20c-4553-abdd-bf6aa8b4af7e",
+    "objects": [
+        {
+            "country": "TT",
+            "created": "2021-03-13T20:09:21.154091Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--682a87d4-e3e5-4a58-828c-673df8d8e148",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Trinidad and Tobago",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

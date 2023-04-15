@@ -1,0 +1,16 @@
+{
+    "id": "bundle--bb2de80f-3b19-4d98-a5ee-b055ba17aa7e",
+    "objects": [
+        {
+            "country": "NU",
+            "created": "2021-03-13T20:09:21.087395Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--78c356ed-18bd-48fb-b398-6b999c016e94",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Niue",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

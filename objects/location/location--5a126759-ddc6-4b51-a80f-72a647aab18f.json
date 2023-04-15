@@ -1,0 +1,17 @@
+{
+    "id": "bundle--a2b87e76-dccb-4a72-9f02-e6ca04583e1e",
+    "objects": [
+        {
+            "administrative_area": "US-IA",
+            "country": "US",
+            "created": "2021-03-13T20:09:21.24687Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--5a126759-ddc6-4b51-a80f-72a647aab18f",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Iowa",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

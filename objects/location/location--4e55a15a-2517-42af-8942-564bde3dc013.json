@@ -1,0 +1,16 @@
+{
+    "id": "bundle--02d980b9-4906-4930-9c7b-53911c79a543",
+    "objects": [
+        {
+            "country": "NP",
+            "created": "2021-03-13T20:09:21.09071Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--4e55a15a-2517-42af-8942-564bde3dc013",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Nepal",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

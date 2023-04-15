@@ -1,0 +1,16 @@
+{
+    "id": "bundle--6c314298-1ffa-4f9b-aa53-f4b0a06064c1",
+    "objects": [
+        {
+            "created": "2021-03-13T20:09:21.199149Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--55dcb050-4e2d-4d33-9be1-6d496af31a58",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Central Asia",
+            "region": "central-asia",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

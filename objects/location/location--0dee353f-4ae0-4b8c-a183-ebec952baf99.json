@@ -1,0 +1,17 @@
+{
+    "id": "bundle--d4033a1f-15aa-47b1-9c05-f88173e33621",
+    "objects": [
+        {
+            "administrative_area": "US-VI",
+            "country": "US",
+            "created": "2021-03-13T20:09:21.291722Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--0dee353f-4ae0-4b8c-a183-ebec952baf99",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "US Virgin Islands",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

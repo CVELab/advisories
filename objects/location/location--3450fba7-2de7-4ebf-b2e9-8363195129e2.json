@@ -1,0 +1,16 @@
+{
+    "id": "bundle--4a67da91-f304-4683-a412-6b978c322ba9",
+    "objects": [
+        {
+            "country": "CA",
+            "created": "2021-03-13T20:09:20.93653Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--3450fba7-2de7-4ebf-b2e9-8363195129e2",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Canada",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

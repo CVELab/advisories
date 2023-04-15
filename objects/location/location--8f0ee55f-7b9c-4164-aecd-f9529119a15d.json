@@ -1,0 +1,16 @@
+{
+    "id": "bundle--912ad5fb-a05e-4b2e-a4d8-55da48a419fb",
+    "objects": [
+        {
+            "country": "PH",
+            "created": "2021-03-13T20:09:21.099892Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--8f0ee55f-7b9c-4164-aecd-f9529119a15d",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Philippines",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

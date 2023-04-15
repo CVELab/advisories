@@ -1,0 +1,16 @@
+{
+    "id": "bundle--8bc833c4-9240-4eb5-88de-c6d4331bc8f9",
+    "objects": [
+        {
+            "created": "2021-03-13T20:09:21.186775Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--ca3ae4f8-d31a-4f36-85d8-9e3a06b518e1",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Middle Africa",
+            "region": "middle-africa",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "bundle--4ee83b46-85ad-4965-89c4-bc455a3e21a3",
+    "objects": [
+        {
+            "country": "CU",
+            "created": "2021-03-13T20:09:20.961187Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--f5afa7ce-2700-4e72-9622-ad34e9488975",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Cuba",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "bundle--6f6e625f-f514-4532-8089-f114aa9cb009",
+    "objects": [
+        {
+            "country": "YE",
+            "created": "2021-03-13T20:09:21.179399Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--95cc9338-4d01-4ea5-9083-6f487c64f364",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Yemen",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

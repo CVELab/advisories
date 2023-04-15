@@ -1,0 +1,17 @@
+{
+    "id": "bundle--98c99a54-139c-4633-8bfa-cb44e11013e4",
+    "objects": [
+        {
+            "created": "2021-03-13T20:09:20.886268Z",
+            "definition": {
+                "statement": "This content is subject to open source license terms expressed in the BSD-3-Clause License. For more information, please see https://github.com/cvelab/advisories"
+            },
+            "definition_type": "statement",
+            "id": "marking-definition--62fd3f9b-15f3-4ebc-802c-91fce9536bcf",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "spec_version": "2.1",
+            "type": "marking-definition"
+        }
+    ],
+    "type": "bundle"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "bundle--2c804425-6cae-4444-a630-89f96da3d899",
+    "objects": [
+        {
+            "created": "2021-03-13T20:09:21.215907Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--011a9d8e-75eb-475a-a861-6998e9968287",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Antarctica",
+            "region": "antarctica",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "bundle--7e04ec39-bca7-4081-9e66-e4c437809348",
+    "objects": [
+        {
+            "country": "BI",
+            "created": "2021-03-13T20:09:20.910956Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--eb8d62cf-ec41-4d58-9fe8-3c27a7766e0e",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Burundi",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

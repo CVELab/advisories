@@ -1,0 +1,16 @@
+{
+    "id": "bundle--694bf023-8827-4ab6-b294-499123f768f0",
+    "objects": [
+        {
+            "country": "NI",
+            "created": "2021-03-13T20:09:21.086242Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--4742166f-762a-44ae-b22d-2ed44f8ebf2d",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Nicaragua",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

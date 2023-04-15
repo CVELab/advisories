@@ -1,0 +1,16 @@
+{
+    "id": "bundle--448e3b46-81b8-40c5-bff5-4ce6b0a4fd85",
+    "objects": [
+        {
+            "country": "SZ",
+            "created": "2021-03-13T20:09:21.138511Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--e8e9222d-8031-4238-9600-64ad363f96d9",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Eswatini",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

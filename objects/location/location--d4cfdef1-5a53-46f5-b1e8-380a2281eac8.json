@@ -1,0 +1,16 @@
+{
+    "id": "bundle--67bebfd3-e8c6-41ac-9261-6d84b8e1187a",
+    "objects": [
+        {
+            "country": "GN",
+            "created": "2021-03-13T20:09:20.996466Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--d4cfdef1-5a53-46f5-b1e8-380a2281eac8",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Guinea",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

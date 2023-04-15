@@ -1,0 +1,17 @@
+{
+    "id": "bundle--a5e54336-9fd5-44f6-9a0d-71fbb5be6741",
+    "objects": [
+        {
+            "administrative_area": "BC",
+            "country": "CA",
+            "created": "2021-03-13T20:09:21.218173Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--2401be46-bba0-4e08-9f90-00f9ed19fc9f",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "British Columbia",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

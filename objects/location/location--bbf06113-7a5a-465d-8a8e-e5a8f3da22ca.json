@@ -1,0 +1,17 @@
+{
+    "id": "bundle--17be01bd-5e9e-42c8-8543-0ba6c1588f3b",
+    "objects": [
+        {
+            "administrative_area": "ON",
+            "country": "CA",
+            "created": "2021-03-13T20:09:21.225835Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--bbf06113-7a5a-465d-8a8e-e5a8f3da22ca",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Ontario",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "bundle--9c8f7072-1d95-4522-a364-72eda99cb669",
+    "objects": [
+        {
+            "administrative_area": "NU",
+            "country": "CA",
+            "created": "2021-03-13T20:09:21.224574Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--50286cc8-a723-41e2-a180-813331bd831f",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Nunavut",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

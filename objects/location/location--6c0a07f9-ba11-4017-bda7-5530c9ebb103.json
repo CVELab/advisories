@@ -1,0 +1,16 @@
+{
+    "id": "bundle--57c63bc4-bcf0-454b-b031-71b1ad030f20",
+    "objects": [
+        {
+            "country": "SN",
+            "created": "2021-03-13T20:09:21.118902Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--6c0a07f9-ba11-4017-bda7-5530c9ebb103",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Senegal",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

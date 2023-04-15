@@ -1,0 +1,16 @@
+{
+    "id": "bundle--ee02af07-bb48-42fb-b283-e1d98e65f1e1",
+    "objects": [
+        {
+            "country": "AM",
+            "created": "2021-03-13T20:09:20.901908Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--ed2fe216-d648-4825-bd2e-ab3872d0cf85",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Armenia",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "bundle--386ab52b-3919-475e-be14-22393e4cd054",
+    "objects": [
+        {
+            "administrative_area": "US-WA",
+            "country": "US",
+            "created": "2021-03-13T20:09:21.281948Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--a867f258-ddc5-4474-b2df-1090273e0ccd",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Washington",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "bundle--0a836f4f-e0df-412c-bdaa-bc60f6dd9dd7",
+    "objects": [
+        {
+            "administrative_area": "US-NC",
+            "country": "US",
+            "created": "2021-03-13T20:09:21.266896Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--49ad2794-036f-4d44-b826-ae29192861d4",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "North Carolina",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "bundle--f454a8a2-e386-495d-8dea-8a3d64d38ec2",
+    "objects": [
+        {
+            "country": "DE",
+            "created": "2021-03-13T20:09:20.967942Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--8fa35ff8-3d69-4ca6-805d-d28be97a81e2",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Germany",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

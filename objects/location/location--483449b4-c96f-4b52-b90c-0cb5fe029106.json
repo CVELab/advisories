@@ -1,0 +1,16 @@
+{
+    "id": "bundle--f13b38a0-8228-4274-ac88-112a150c6dd2",
+    "objects": [
+        {
+            "country": "EG",
+            "created": "2021-03-13T20:09:20.976145Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--483449b4-c96f-4b52-b90c-0cb5fe029106",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Egypt",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "bundle--5d831413-369a-4fff-b2be-2f33abc34d63",
+    "objects": [
+        {
+            "administrative_area": "US-AZ",
+            "country": "US",
+            "created": "2021-03-13T20:09:21.233478Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--24bde496-7842-4259-a5f7-9b1bc6e2cf82",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Arizona",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

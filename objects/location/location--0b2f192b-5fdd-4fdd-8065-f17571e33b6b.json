@@ -1,0 +1,17 @@
+{
+    "id": "bundle--3d42adb1-43ee-43eb-85b4-fecc20dd076d",
+    "objects": [
+        {
+            "administrative_area": "US-PA",
+            "country": "US",
+            "created": "2021-03-13T20:09:21.272301Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--0b2f192b-5fdd-4fdd-8065-f17571e33b6b",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Pennsylvania",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

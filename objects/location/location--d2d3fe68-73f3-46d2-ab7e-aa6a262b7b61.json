@@ -1,0 +1,17 @@
+{
+    "id": "bundle--19e86b9a-f3e0-4411-baee-8bd56d1dcf50",
+    "objects": [
+        {
+            "administrative_area": "US-ND",
+            "country": "US",
+            "created": "2021-03-13T20:09:21.267977Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--d2d3fe68-73f3-46d2-ab7e-aa6a262b7b61",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "North Dakota",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

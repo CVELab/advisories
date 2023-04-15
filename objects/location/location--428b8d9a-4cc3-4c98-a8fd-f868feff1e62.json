@@ -1,0 +1,16 @@
+{
+    "id": "bundle--9f68c2f3-0247-40f9-a38e-8f035d1d9fc0",
+    "objects": [
+        {
+            "country": "AE",
+            "created": "2021-03-13T20:09:20.899404Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--428b8d9a-4cc3-4c98-a8fd-f868feff1e62",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "United Arab Emirates",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

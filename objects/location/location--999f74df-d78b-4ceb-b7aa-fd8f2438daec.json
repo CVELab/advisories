@@ -1,0 +1,16 @@
+{
+    "id": "bundle--7403fffa-6cad-4967-a526-7ea6e2d033ec",
+    "objects": [
+        {
+            "country": "TW",
+            "created": "2021-03-13T20:09:21.158709Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--999f74df-d78b-4ceb-b7aa-fd8f2438daec",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Taiwan, Province of China",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

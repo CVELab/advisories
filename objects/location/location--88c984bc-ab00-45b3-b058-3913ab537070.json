@@ -1,0 +1,16 @@
+{
+    "id": "bundle--a6ed9007-a576-4a5b-a5d6-fca0a9449f55",
+    "objects": [
+        {
+            "created": "2021-03-13T20:09:21.213272Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--88c984bc-ab00-45b3-b058-3913ab537070",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Micronesia",
+            "region": "micronesia",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

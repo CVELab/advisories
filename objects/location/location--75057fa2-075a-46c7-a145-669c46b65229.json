@@ -1,0 +1,17 @@
+{
+    "id": "bundle--bae8cb75-d323-40de-9cdd-19301dcd83a2",
+    "objects": [
+        {
+            "administrative_area": "US-VA",
+            "country": "US",
+            "created": "2021-03-13T20:09:21.280879Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--75057fa2-075a-46c7-a145-669c46b65229",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Virginia",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

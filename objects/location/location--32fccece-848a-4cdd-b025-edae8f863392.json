@@ -1,0 +1,17 @@
+{
+    "id": "bundle--e3e6520b-15de-4e1d-8011-ca61f633f0f8",
+    "objects": [
+        {
+            "administrative_area": "US-TN",
+            "country": "US",
+            "created": "2021-03-13T20:09:21.276675Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--32fccece-848a-4cdd-b025-edae8f863392",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Tennessee",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

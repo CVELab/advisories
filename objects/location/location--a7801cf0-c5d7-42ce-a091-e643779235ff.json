@@ -1,0 +1,16 @@
+{
+    "id": "bundle--17c13071-db71-48bb-a5fe-98f6bba54295",
+    "objects": [
+        {
+            "country": "ML",
+            "created": "2021-03-13T20:09:21.064919Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--a7801cf0-c5d7-42ce-a091-e643779235ff",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Mali",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

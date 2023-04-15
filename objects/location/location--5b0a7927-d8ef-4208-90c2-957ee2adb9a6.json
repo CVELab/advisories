@@ -1,0 +1,16 @@
+{
+    "id": "bundle--2fcd79e4-ef4e-4134-8489-ebaec63cc576",
+    "objects": [
+        {
+            "country": "MG",
+            "created": "2021-03-13T20:09:21.05896Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--5b0a7927-d8ef-4208-90c2-957ee2adb9a6",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Madagascar",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

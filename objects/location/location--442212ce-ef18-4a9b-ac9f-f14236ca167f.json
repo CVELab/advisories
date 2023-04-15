@@ -1,0 +1,17 @@
+{
+    "id": "bundle--7da1752d-5c01-4157-a3fc-ff002cf38989",
+    "objects": [
+        {
+            "administrative_area": "US-NH",
+            "country": "US",
+            "created": "2021-03-13T20:09:21.262534Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--442212ce-ef18-4a9b-ac9f-f14236ca167f",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "New Hampshire",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

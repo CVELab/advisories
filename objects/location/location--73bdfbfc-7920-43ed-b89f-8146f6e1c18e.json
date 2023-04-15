@@ -1,0 +1,16 @@
+{
+    "id": "bundle--e2f0f6f1-5709-48c5-a05f-4a165f9285a7",
+    "objects": [
+        {
+            "created": "2021-03-13T20:09:21.214682Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--73bdfbfc-7920-43ed-b89f-8146f6e1c18e",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Polynesia",
+            "region": "polynesia",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

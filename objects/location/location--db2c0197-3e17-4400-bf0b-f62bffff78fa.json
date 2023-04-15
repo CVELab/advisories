@@ -1,0 +1,17 @@
+{
+    "id": "bundle--343eab6f-18bf-499f-8d1d-66cad716a080",
+    "objects": [
+        {
+            "administrative_area": "US-CA",
+            "country": "US",
+            "created": "2021-03-13T20:09:21.235971Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--db2c0197-3e17-4400-bf0b-f62bffff78fa",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "California",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

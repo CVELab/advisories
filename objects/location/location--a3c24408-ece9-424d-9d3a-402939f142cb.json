@@ -1,0 +1,16 @@
+{
+    "id": "bundle--e66f6fb6-d034-46da-be67-c8fe321151f7",
+    "objects": [
+        {
+            "country": "CN",
+            "created": "2021-03-13T20:09:20.944701Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--a3c24408-ece9-424d-9d3a-402939f142cb",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "China",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

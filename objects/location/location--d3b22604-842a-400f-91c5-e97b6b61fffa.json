@@ -1,0 +1,16 @@
+{
+    "id": "bundle--83cf3392-589e-4367-89d5-f6816e0eee01",
+    "objects": [
+        {
+            "country": "YT",
+            "created": "2021-03-13T20:09:21.079477Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--d3b22604-842a-400f-91c5-e97b6b61fffa",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Mayotte",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

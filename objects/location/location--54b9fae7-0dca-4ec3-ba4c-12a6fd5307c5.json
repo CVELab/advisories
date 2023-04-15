@@ -1,0 +1,17 @@
+{
+    "id": "bundle--09bc3a22-3c8b-4486-ba69-564a0d2f7888",
+    "objects": [
+        {
+            "administrative_area": "YT",
+            "country": "CA",
+            "created": "2021-03-13T20:09:21.230312Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--54b9fae7-0dca-4ec3-ba4c-12a6fd5307c5",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Yukon",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

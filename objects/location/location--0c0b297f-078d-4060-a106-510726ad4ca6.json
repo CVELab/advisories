@@ -1,0 +1,16 @@
+{
+    "id": "bundle--2278299f-a740-4859-9f21-b6d2c247c5b4",
+    "objects": [
+        {
+            "created": "2021-03-13T20:09:21.204979Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--0c0b297f-078d-4060-a106-510726ad4ca6",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Europe",
+            "region": "europe",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

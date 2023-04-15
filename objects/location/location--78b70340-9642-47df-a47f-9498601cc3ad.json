@@ -1,0 +1,17 @@
+{
+    "id": "bundle--d81ec3c9-ce11-40fe-b60c-1a7ddc38a524",
+    "objects": [
+        {
+            "administrative_area": "US-GA",
+            "country": "US",
+            "created": "2021-03-13T20:09:21.24151Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--78b70340-9642-47df-a47f-9498601cc3ad",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Georgia",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

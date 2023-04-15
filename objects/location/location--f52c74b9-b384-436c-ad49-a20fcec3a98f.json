@@ -1,0 +1,16 @@
+{
+    "id": "bundle--1283c151-4c33-4e18-adba-4648f0a103e8",
+    "objects": [
+        {
+            "country": "CO",
+            "created": "2021-03-13T20:09:20.955916Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--f52c74b9-b384-436c-ad49-a20fcec3a98f",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Colombia",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

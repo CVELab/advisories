@@ -1,0 +1,16 @@
+{
+    "id": "bundle--aa76665b-2f48-46bd-a327-eb27aae672f3",
+    "objects": [
+        {
+            "country": "EC",
+            "created": "2021-03-13T20:09:20.975004Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--c0ed322e-2638-4a46-8699-75d71311ae33",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Ecuador",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

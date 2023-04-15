@@ -1,0 +1,17 @@
+{
+    "id": "bundle--8a37da0c-2f64-4eca-8059-b566b49c6ca7",
+    "objects": [
+        {
+            "administrative_area": "US-IN",
+            "country": "US",
+            "created": "2021-03-13T20:09:21.245816Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--139a05b0-cd04-4e70-b865-5965ad42807c",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Indiana",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}

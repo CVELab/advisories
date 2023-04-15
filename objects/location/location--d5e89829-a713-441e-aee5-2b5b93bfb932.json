@@ -1,0 +1,16 @@
+{
+    "id": "bundle--0171db54-87b7-4b94-b59b-cbd24a2f03cf",
+    "objects": [
+        {
+            "country": "NR",
+            "created": "2021-03-13T20:09:21.091792Z",
+            "created_by_ref": "identity--8ce3f695-d5a4-4dc8-9e93-a65af453a31a",
+            "id": "location--d5e89829-a713-441e-aee5-2b5b93bfb932",
+            "modified": "2021-12-01T16:19:51.601791Z",
+            "name": "Nauru",
+            "spec_version": "2.1",
+            "type": "location"
+        }
+    ],
+    "type": "bundle"
+}
